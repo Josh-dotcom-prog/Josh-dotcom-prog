@@ -53,7 +53,7 @@
 [![Computer Repair](https://img.shields.io/badge/Computer%20Repair-FF6B35?logo=tools&logoColor=white)](#) [![Hardware Maintenance](https://img.shields.io/badge/Hardware%20Maintenance-4A90E2?logo=screwdriver&logoColor=white)](#)
 
 
-![Josh-dotcom-prog's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josh-dotcom-prog&langs_count=10&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&card_width=600)
+![Josh-dotcom-prog's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josh-dotcom-prog&langs_count=10&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&card_width=800)
 
 📊 Stats
 
