@@ -58,9 +58,9 @@
 
 📊 Stats
 
-![Josh-dotcom-progs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh-dotcom-prog&show_icons=true&theme=gruvbox)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Josh-dotcom-prog&theme=tokyonight&hide_border=false)
+| GitHub Stats | Streak Stats |
+|:------------:|:------------:|
+| ![Josh-dotcom-prog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh-dotcom-prog&show_icons=true&theme=gruvbox) | ![Josh-dotcom-prog's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Josh-dotcom-prog&theme=tokyonight&hide_border=false) |
 <br/>
 
 Socials
