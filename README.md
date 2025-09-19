@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me +256762521458/+256754110547 email: edyangujoshua@gmail.com
 
-## 🧰 & </> Languages and Tools
+## 🧰 & </> Languages and Tools Used
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" style="padding-right:10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30px" style="padding-right:10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30px" style="padding-right:10px;" /> <a href="https://www.github.com/Josh-dotcom-prog" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
