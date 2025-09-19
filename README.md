@@ -40,11 +40,11 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer">
   <img src="./assets/VB.NET_Logo.svg.png" width="36" height="36" alt="Visual Basic" />
 </a>
-<a href="https://alembic.sqlalchemy.org/" target="_blank" rel="noreferrer">
+<!-- <a href="https://alembic.sqlalchemy.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="36" height="36" alt="Alembic" />
 </a><a href="https://github.com/axllent/mailpit" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/axllent/mailpit/develop/server/ui/mailpit.svg" width="36" height="36" alt="Mailpit" />
-</a>
+</a> -->
 
 ## Other Specialties:
 **Operating System**<br/>
