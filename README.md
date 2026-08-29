@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Josh-dotcom-prog
 - My name is EDYANGU JOSHUA
 - 👀 I’m interested in programming e.g. web development, application and software development, sysAdmin, DBA
-- 🌱 I’m currently persuing a Diploma in computer science at Uganda Institute of Information and Communications Technology
+- 🌱 Fresh graduate of Diploma in computer science from Uganda Institute of Information and Communications Technology
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me +256762521458/+256754110547 email: edyangujoshua@gmail.com
 
